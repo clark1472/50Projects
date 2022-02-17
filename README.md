@@ -1,2 +1,2 @@
 # 50Projects
-Brad Traversy
+Brad Traversey
